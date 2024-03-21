@@ -18,7 +18,7 @@
 
 ### 关键词搜索账号
 
-[Success Response](./examples/success_search_accounts.json)
+[成功返回样例](./examples/success_search_accounts.json)
 
 
 ## 失败返回样例
