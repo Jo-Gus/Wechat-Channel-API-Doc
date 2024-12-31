@@ -1,0 +1,6 @@
+{
+  "code": 1001,
+  "credits": 0,
+  "msg": "search_type Input should be 'video' or 'account'",
+  "tip": "You can read document or contact provider: https://www.idatariver.com/project/wechat-channel-9127"
+}
